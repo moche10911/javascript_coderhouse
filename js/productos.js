@@ -1,0 +1,8 @@
+const galletas=[
+    {id:1,nombre:"CHOCOLATE CHIP",foto:"../imgs/Chocolate Chip Cookie.jpeg",precio: 7700},
+    {id:2,nombre:"CARAMELO SALADO",foto:"../imgs/Caramelo Salado.jpeg",precio: 8500},
+    {id:3,nombre:"RED VELVET",foto:"../imgs/Red Velvet.jpeg",precio: 8500},
+    {id:4,nombre:"GUAYABA CHOCOLATE BLANCO",foto:"../imgs/Bocadillo Chocolate Blanco.jpeg",precio: 8200},
+    {id:5,nombre:"MILO FUDGE",foto:"../imgs/Fudge Chocolate.jpeg",precio: 7900},
+    {id:6,nombre:"COCO CRUNCH",foto:"../imgs/Coco Crunch.jpeg",precio: 8000}
+]
